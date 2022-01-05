@@ -3,7 +3,8 @@ Automation of organizing and analyzing NHANES data can provide  easier access to
 This MATLAB function automate downloading and merging of datasets from several years of the NHANES.
 
 ## Cite as
-
+Simon Cichosz. (2022). Matlab-Tool-for-Organizing-and-Analyzing-NHANES-data  (v1.1.1). Zenodo. https://doi.org/10.5281/zenodo.5819862
+[![DOI](https://zenodo.org/badge/444722086.svg)](https://zenodo.org/badge/latestdoi/444722086)
 
 ## References
 A Matlab Tool for Organizing and Analyzing NHANES Data
