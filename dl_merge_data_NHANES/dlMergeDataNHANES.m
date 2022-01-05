@@ -19,12 +19,13 @@
 %   [DM] = dlmergnhanes(arrsurfix, arryears, arrData, master)
 % 
 % Cite as / credit as:
+%   Simon Cichosz. (2022). Matlab-Tool-for-Organizing-and-Analyzing-NHANES-data  (v1.1.1). Zenodo. https://doi.org/10.5281/zenodo.5819862
 
 % Reference
-% A Matlab Tool for Organizing and Analyzing NHANES Data
-% Cichosz, S. L., Jensen, M. H., Larsen, T. K. & Hejlesen, O., 16 jun. 2020, 
-% Digital Personalized Health and Medicine. IOS Press, Bind 270. 
-% s. 1179-1180 2 s. (Studies in Health Technology and Informatics , Bind 270).
+%   A Matlab Tool for Organizing and Analyzing NHANES Data
+%   Cichosz, S. L., Jensen, M. H., Larsen, T. K. & Hejlesen, O., 16 jun. 2020, 
+%   Digital Personalized Health and Medicine. IOS Press, Bind 270. 
+%   s. 1179-1180 2 s. (Studies in Health Technology and Informatics , Bind 270).
 
 
 function [DM] = dlmergnhanes(arrsurfix, arryears, arrData, master)
